@@ -1,8 +1,14 @@
 # 🧠 Natural Language Processing (NLP)
 
-This repository contains practical implementations of **Natural Language Processing (NLP)** concepts using Python and deep learning.
+- Natural Language Processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret, and generate human language.
 
-It includes real-world NLP tasks such as text generation, translation, summarization, sentiment analysis, and transformer-based models.
+- It allows machines to read text, recognize speech, understand meaning, and respond in a human-like way.
+
+Examples: chatbots, language translation, voice assistants, sentiment analysis, and text summarization.
+
+- This repository contains practical implementations of **Natural Language Processing (NLP)** concepts using Python and deep learning.
+
+- It includes real-world NLP tasks such as text generation, translation, summarization, sentiment analysis, and transformer-based models.
 
 ---
 
