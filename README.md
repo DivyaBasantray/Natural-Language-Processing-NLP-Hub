@@ -1,6 +1,6 @@
 # 🧠 Natural Language Processing (NLP)
 
-- Natural Language Processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret, and generate human language.
+- Natural Language Processing (NLP) is a branch of artificial intelligence (AI) that helps computers understand, interpret, and generate human language.
 
 - It allows machines to read text, recognize speech, understand meaning, and respond in a human-like way.
 
